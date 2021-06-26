@@ -1,0 +1,31 @@
+/* NAVBAR */
+.navbar{
+    background-color:aqua;
+}
+
+.collapse{
+    justify-content: flex-end;
+}
+
+.nav-link{
+    color: black;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    color: darkturquoise;
+}
+
+.active{
+    color: antiquewhite;
+}
+
+/* FIM DO NAVBAR */
+
+/* HEADER */
+.header{
+    /* background-image: url(../images/banner.jpg); */
+    background-size: cover;
+    position: relative;
+    background-position: center;
+}
